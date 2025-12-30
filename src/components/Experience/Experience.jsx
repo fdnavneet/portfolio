@@ -31,16 +31,8 @@ const Experience = () => {
             className={`flex flex-col sm:flex-row items-center mb-16 relative
               ${index % 2 === 0 ? "sm:justify-end" : "sm:justify-start"}`}
           >
-            {/* Timeline Circle */}
-            <div className="absolute left-1/2 transform -translate-x-1/2 bg-gray-900 border-4 border-purple-500 w-16 h-16 rounded-full flex justify-center items-center z-10">
-              <img
-                src={exp.img}
-                alt={exp.school}
-                className="w-full h-full object-cover rounded-full"
-              />
-            </div>
+            
 
-            {/* Content Card */}
             <div
               className={`w-full sm:max-w-md p-6 sm:p-8 bg-gray-900 border border-white rounded-2xl shadow-2xl backdrop-blur-md
               transform transition-transform duration-300 hover:scale-105 hover:shadow-purple-500/50
