@@ -31,8 +31,9 @@ const Experience = () => {
             className={`flex flex-col sm:flex-row items-center mb-16 relative
               ${index % 2 === 0 ? "sm:justify-end" : "sm:justify-start"}`}
           >
-            
+           
 
+            {/* Content Card */}
             <div
               className={`w-full sm:max-w-md p-6 sm:p-8 bg-gray-900 border border-white rounded-2xl shadow-2xl backdrop-blur-md
               transform transition-transform duration-300 hover:scale-105 hover:shadow-purple-500/50
