@@ -42,7 +42,7 @@ const About = () => {
           </p>
           {/* resume */}
           <a
-            href="https://drive.google.com/file/d/1grfEVVeO-8-mm4HWCeskTrOtKkRJVePZ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1kY1ZBl1v10bgC8HPuEgNaKOQON51ZM7c/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
