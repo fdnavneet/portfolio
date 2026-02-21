@@ -35,14 +35,15 @@ const About = () => {
           </h3>
           {/* about me paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Front-End React Developer with 2 years of experience in React.Js,
-            JavaScript, Tailwind CSS, and REST API integration, focused on
-            building scalable, high-performance, and user-centric web
-            applications.
+            Front-End React Developer with 2 years 6 months of experience in
+            building responsive and secure web applications using React.js,
+            JavaScript (ES6+), Redux Toolkit, Tailwind CSS, and REST APIs.
+            Hands-on experience in eKYC workflows, OTP authentication, API
+            integration, and responsive UI development.
           </p>
           {/* resume */}
           <a
-            href="https://drive.google.com/file/d/1kY1ZBl1v10bgC8HPuEgNaKOQON51ZM7c/view?usp=sharing"
+            href="https://drive.google.com/file/d/1s52lLU-k8WDbputnZoJXU03c9kIZRkv_/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
