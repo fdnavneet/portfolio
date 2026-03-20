@@ -66,7 +66,7 @@ const experiences = [
     img: WTV,
     role: "Frontend Developer",
     company: "Wisdom Tree Ventures",
-    date: "May 2024 - Sept 2025",
+    date: "Augest 2023 - Sept 2025",
     desc: "EKYC Platform:- Built secure and scalable eKYC frontend applications using React.js, JavaScript, Tailwind CSS, Redux Toolkit, Axios, React Hook Form, Web Camera API, Git. implementing multi-step verification flows, OTP validation, document upload, API integration, and responsive UI with a strong focus on security and user experience.",
     skills: [
       "HTML",
